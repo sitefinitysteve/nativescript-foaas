@@ -1,0 +1,24 @@
+{
+  "name": "nativescript-foaas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.5.1",
+      "ios": "1.5.1"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "NativeScript",
+    "FOAAS",
+    "Fuck",
+    "Off",
+    "Fuck Off"
+  ],
+  "author": "Steve McNiven-Scott <steve@sitefinitysteve.com> (https://github.com/sitefinitysteve)"
+}

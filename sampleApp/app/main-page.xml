@@ -1,0 +1,10 @@
+<Page loaded="pageLoaded" xmlns="http://schemas.nativescript.org/tns.xsd">
+    <Page.actionBar>
+        <ActionBar title="FOAAS" icon="">
+        </ActionBar>
+    </Page.actionBar>
+    <StackLayout>
+        <Button text="Hello" tap="onHello"/>
+        <Label text="{{ message }}" textWrap="true" />
+    </StackLayout>
+</Page>
