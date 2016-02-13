@@ -5,6 +5,6 @@ Nativescript wrapper for [FOAAS](http://www.foaas.com/).  You can now FO with Pr
 Sample project with tests [here](https://github.com/sitefinitysteve/nativescript-foaas/tree/master/sampleApp)
 
 ## Plugin
-plugin [here](https://github.com/sitefinitysteve/nativescript-foaas/tree/master/sampleApp)
+plugin [here](https://github.com/sitefinitysteve/nativescript-foaas/tree/master/nativescript-foaas)
 
 ## NPM
