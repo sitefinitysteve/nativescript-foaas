@@ -1,5 +1,5 @@
 # NativeScript FuckOff-As-As-Service (FOAAS)
-Nativescript wrapper for [FOAAS](http://www.foaas.com/).  You can now FO with Promises!
+Nativescript wrapper for FOAAS.  You can now FO with Promises!
 
 ## Methods
 * off(name, from);
@@ -50,17 +50,22 @@ var foaas = require("nativescript-foaas");
     combined: "Cool story, bro. - nativescript"   
 }
 */
+
+//Simple
 foaas.coolstorybro("nativescript").then(function(args){
+    alert(args.combined);
+});
+
+//Nested Chain
+foaas.coolstorybro("nativescript").then(function(args){
+    //Alert Message
     alert(args.message).then(function(){
+        //Call the next once it's closed
         foaas.bye("nativescript").then(function(args){
             alert(args.combined); 
         });        
     });
 });
-
-//Result:
-// Popup alert says "Cool story, bro.", close it
-// Another popup then shows "Fuckity bye - nativescript"
 ```
 
 ## Notes
