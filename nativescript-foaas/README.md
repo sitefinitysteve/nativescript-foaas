@@ -1,4 +1,4 @@
-# NativeScript FuckOff-As-As-Service (FOAAS)
+# NativeScript (FOAAS)
 Nativescript wrapper for FOAAS.  You can now FO with Promises!
 
 ## Methods
