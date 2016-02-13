@@ -8,3 +8,4 @@ Sample project with tests [here](https://github.com/sitefinitysteve/nativescript
 plugin [here](https://github.com/sitefinitysteve/nativescript-foaas/tree/master/nativescript-foaas)
 
 ## NPM
+[tns plugin add nativescript-foaas](https://www.npmjs.com/package/nativescript-foaas)
