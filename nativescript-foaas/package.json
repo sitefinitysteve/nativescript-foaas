@@ -1,7 +1,7 @@
 {
   "name": "nativescript-foaas",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Fooas wrapper for nativescript, both really good and really bad for demos",
   "main": "index.js",
   "nativescript": {
     "platforms": {
@@ -17,11 +17,10 @@
     "NativeScript",
     "FOAAS",
     "iOS",
-    "Android",
-    "Fuck",
-    "Off",
-    "Fuck Off",
-    "Sorry Mom"
+    "Android"
   ],
-  "author": "Steve McNiven-Scott <steve@sitefinitysteve.com> (https://github.com/sitefinitysteve)"
+  "author": {
+    "name": "Steve McNiven-Scott",
+    "email": "steve@sitefinitysteve.com"
+  }
 }
