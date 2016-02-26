@@ -1,6 +1,8 @@
 # NativeScript (FOAAS)
 Nativescript wrapper for FOAAS.  You can now FO with Promises!
 
+[What is Foaas?](http://www.foaas.com/)
+
 ## Methods
 * off(name, from);
 * you(name, from);

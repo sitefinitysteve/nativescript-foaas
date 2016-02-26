@@ -1,7 +1,7 @@
 {
   "name": "nativescript-foaas",
-  "version": "1.0.4",
-  "description": "Fooas wrapper for nativescript, both really good and really bad for demos",
+  "version": "1.0.5",
+  "description": "Foaas wrapper for nativescript, both really good and really bad for demos",
   "main": "index.js",
   "nativescript": {
     "platforms": {
